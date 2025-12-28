@@ -68,8 +68,8 @@ The Online Plant Ordering System is a full-stack web application designed to dig
 
 ### Backend Setup
 ```bash
-git clone https://github.com/your-username/online-plant-ordering-system.git
-cd online-plant-ordering-system/backend
+git clone https://github.com/roshansg2005/Online-Plant-Ordering-System.git
+cd Online-Plant-Ordering-System/backend
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
